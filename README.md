@@ -28,7 +28,7 @@ To run locally:
 
  
 ## Usage: 
-[Click here for deployed app](https://alumnspace.herokuapp.com/)   
+[Click here for deployed app](https://alumspace.herokuapp.com/)   
 
 On the Home page you can either click the **Login** or **Signup** buttons to log in or register.  You must be registered and logged in to use the site.  Once logged in, you will see all of the posts with the newest posts on the top.  You can use the search feature find posts with particular category and/or label as well as specific text in the title.  Put your text in the search field and use the **category** and **label** drop down fields if you wish then hit the **search** button and the relevant posts will be listed below.   
 
@@ -58,4 +58,4 @@ Feel free to contact me to contribute to this project. My contact information is
 ## Questions: 
 GitHub: [YOUR NAME HERE]() 
 
-If you have any questions or suggestions, please contact me at <YOUR EMAIL HERE>. 
+If you have any questions or suggestions, please contact me at <melinamboedecker@gmail.com>. 
